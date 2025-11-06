@@ -1,13 +1,3 @@
 {
-  "innobit.LED_setPixelColor3": "設三個像素的顏色為",
-  "innobit.LED_setPixelColor32": "根據RGB比例 \r\n\r\n 設定三個像素的顏色",
-  "innobit.MP_Servo.maxAngle": "取得伺服馬達能達到的最大角度",
-  "innobit.MP_Servo.minAngle": "取得伺服馬達能達到的最大角度",
-  "innobit.colors": "取得已知顏色的RGB比例",
-  "innobit.createServo": "設置伺服馬達的角度",
-  "innobit.motor_M1": "初始化馬達  M1\r\n 設置馬達的速度 (-255 to 255)",
-  "innobit.motor_M2": "初始化馬達  M2\r\n 設置馬達的速度 (0 to 255)",
-  "innobit.readData": "通過DHT11取得濕溫度",
-  "innobit.readhumidity": "通過DHT11取得濕度",
-  "innobit.readtemperature": "通過DHT11取得溫度"
+ 
 }
