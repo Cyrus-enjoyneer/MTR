@@ -43,11 +43,30 @@ namespace mtr {
     }
     export enum rfidColor {
         //% block="紅"
-        red = 0,
+        red = "red",
         //% block="藍"
-        blue = 1,
+        blue = "blue",
         //% block="銀"
-        silver = 1
+        silver = "silver"
+    }
+    export enum ledColor {
+        //% block="紅"
+        red = "red",
+        //% block="黃"
+        yellow = 1,
+        //% block="紫"
+        purple = "purple",
+        //% block="綠"
+        green = "green",
+        //% block="白"
+        white = "white",
+        //% block="黑"
+        black = "black",
+        //% block="藍"
+        blue = "blue",
+        //% block="橙"
+        orange = "orange"
+        
     }
     ///////////////////// 初始化数据 ///////////////////////
 
@@ -71,6 +90,14 @@ namespace mtr {
     //% func.fieldEditor="gridpicker"
     //% subcategory="showName"
     export function showName(name: stationName ) {
+
+    }
+
+    //% blockId="setLedColor" weight=12 blockGap=17
+    //% block="設車頭燈光顏色為 %color 色"
+    //% func.fieldEditor="gridpicker"
+    //% subcategory="showName"
+    export function setLedColor(color: ledColor) {
 
     }
     ///////////////////// Voice ///////////////////////
