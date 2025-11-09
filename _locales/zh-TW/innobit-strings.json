@@ -1,10 +1,24 @@
 {
-  
+  "mtr.stationName.tsuenWen|block": "荃灣",
+  "mtr.stationName.hku|block": "香港大學",
+  "mtr.stationName.saiYingPun|block": "西營盤",
+  "mtr.stationName.sheungWan|block": "上環",
+  "mtr.stationName.central|block": "中環",
+  "mtr.voiceName.nextStation|block": "下一站",
+  "mtr.voiceName.openDoor|block": "開門",
+  "mtr.voiceName.standBack|block": "請勿靠近",
   "mtr.initTrain|block": "初始化地鐵模組",
+  "mtr.showName|block": "設定終點站為 %stationName",
+  "mtr.playVoice|block": "播放語音 %voiceName",
+  "mtr.setVolume|block": "設定音量為  %volume",
+  "mtr.buttonPressed|block": "按鈕 %buttons 被按下",
   "mtr|block": "MTR",
   "{id:category}mtr": "MTR",
   "{id:group}Positional": "Positional",
-  "{id:subcategory}initTrain": "初始化"
+  "{id:subcategory}initTrain": "初始化",
+  "{id:subcategory}showName": "顯示屏",
+  "{id:subcategory}playVoice": "語音",
+  "{id:subcategory}buttons": "按鈕"
   
 
 }
