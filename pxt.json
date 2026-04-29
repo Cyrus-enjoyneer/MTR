@@ -17,7 +17,7 @@
         "_locales/zh-CN/innobit-strings.json",
         "_locales/zh-CN/innobit-jsdoc-strings.json",
         "_locales/zh-TW/innobit-strings.json",
-        "_locales/zh-TW/innobit-jsdoc-strings.json",
+        "_locales/zh-TW/mtr-jsdoc-strings.json",
         "main.py"
     ],
     "testFiles": [
