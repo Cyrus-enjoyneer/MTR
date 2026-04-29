@@ -1,5 +1,5 @@
 {
-    "name": "MTR",
+    "name": "mtr",
     "description": "This is the extension for MTR.",
     "dependencies": {
         "core": "*",
