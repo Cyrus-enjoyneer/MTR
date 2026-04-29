@@ -1,6 +1,6 @@
 {
-    "name": "innobit",
-    "description": "This is the extension for innobit.",
+    "name": "MTR",
+    "description": "This is the extension for MTR.",
     "dependencies": {
         "core": "*",
         "radio": "*",
@@ -11,7 +11,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "innobit.ts",
+        "mtr.ts",
         "_locales/en/innobit-strings.json",
         "_locales/en/innobit-jsdoc-strings.json",
         "_locales/zh-CN/innobit-strings.json",
